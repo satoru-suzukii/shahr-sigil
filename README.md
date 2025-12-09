@@ -18,4 +18,5 @@ This work is licensed under a **Creative Commons Attribution-ShareAlike 4.0 Inte
 Any attempt by third parties to trademark, copyright, or otherwise claim exclusive proprietary rights to this shape will be contested using the prior art and timestamps established in this repository.
 
 **Established:** [10-12-2025]
+
 **Creator:** [satoru-suzukii]
